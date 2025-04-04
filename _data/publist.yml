@@ -6,7 +6,9 @@
   year: 2024
   authors: Carolina Lopez Olmos, Alexandros Neophytou, Sunando Sengupta, Dim P. Papadopoulos
   link:
-    todo: todo
+    website: https://latent-debiasing-directions.compute.dtu.dk/
+    arxiv: https://arxiv.org/abs/2406.06352
+    code: https://github.com/blclo/latent-debiasing-directions
 
 - title: "Learning the What and How of Annotation in Video Object Segmentation"
   image: delatolas24wacv.png
