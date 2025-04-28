@@ -1,3 +1,15 @@
+- title: "Studying Image Diffusion Features for Zero-Shot Video Object Segmentation"
+  image: delatolas25cvprw.png
+  conference: 
+    full: Computer Vision and Pattern Recognition Workshop
+    short: CVPR-W
+  year: 2025
+  authors: Thanos Delatolas, Vicky Kalogeiton, Dim P. Papadopoulos
+  link:
+    website: https://diff-zsvos.compute.dtu.dk/
+    arxiv: https://arxiv.org/abs/2504.05468
+    code: https://github.com/thanosDelatolas/diff-zvos
+    
 - title: "POEM: Precise Object-level Editing via MLLM control"
   image: schouten25scia.png
   conference: 
