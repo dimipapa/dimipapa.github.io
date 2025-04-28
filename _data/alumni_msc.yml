@@ -1,30 +1,30 @@
-- name: Visual Prompting for Generalizable Human­ Object Interaction Recognition with MLLMs
+- name: Alejandro Cirugeda
   date: Fall 2024
-  topic: Alejandro Cirugeda
+  topic: Visual Prompting for Generalizable Human­ Object Interaction Recognition with MLLMs
   
-- name: Music Generation with Diffusion Models, Transforming audio signals using spectrograms
+- name: Charalampos Spiliopoulos
   date: Fall 2024
-  topic: Charalampos Spiliopoulos
+  topic: Music Generation with Diffusion Models, Transforming audio signals using spectrograms
 
-- name: Sound-to-Image Synthesis, Controlling Image Generation through Audio Modality
+- name: Jakob Kristensen
   date: Fall 2024
-  topic: Jakob Kristensen
+  topic: Sound-to-Image Synthesis, Controlling Image Generation through Audio Modality
 
-- name: Copy Paste Data Augmentation for Video Object Segmentation
+- name: Ioannis Manganas
   date: Spring 2024
-  topic: Ioannis Manganas
+  topic: Copy Paste Data Augmentation for Video Object Segmentation
   
-- name: Weakly supervised 3D object detection
+- name: Andreas Lau Hansen
   date: Spring 2024
-  topic: Andreas Lau Hansen
+  topic: Weakly supervised 3D object detection
 
-- name: Weakly supervised 3D object detection
+- name: Lukas Daniel Visti Wanzeck
   date: Spring 2024
-  topic: Lukas Daniel Visti Wanzeck
+  topic: Weakly supervised 3D object detection
   
-- name: Learning to Segment and Track any Object for Video Object Segmentation
+- name: Alexandros Avramis
   date: Spring 2024
-  topic: Alexandros Avramis
+  topic: Learning to Segment and Track any Object for Video Object Segmentation
 
 - name: Carolina Lopez Olmos
   date: Fall 2023
