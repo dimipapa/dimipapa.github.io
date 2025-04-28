@@ -1,3 +1,37 @@
+- title: "POEM: Precise Object-level Editing via MLLM control"
+  image: schouten25scia.png
+  conference: 
+    full: Scandinavian Conference on Image Analysis
+    short: SCIA
+  year: 2025
+  authors: Marco Schouten, Mehmet Onur Kaya, Serge Belongie, Dim P. Papadopoulos
+  link:
+    website: https://poem.compute.dtu.dk/
+    arxiv: https://arxiv.org/abs/2504.08111
+    code: https://github.com/marcoschouten/POEM_Object_Editing
+    
+- title: "pix2pockets: Shot Suggestions in 8-Ball Pool from a Single Image in the Wild"
+  image: schiott25scia.png
+  conference: 
+    full: Scandinavian Conference on Image Analysis
+    short: SCIA
+  year: 2025
+  authors: Jonas Myhre Schiøtt, Viktor Sebastian Petersen, Dim P. Papadopoulos
+  link:
+    website: https://pix2pockets.compute.dtu.dk/
+    arxiv: https://arxiv.org/abs/2504.12045
+
+- title: "Weak Cube R-CNN: Weakly Supervised 3D Detection using only 2D Bounding Boxes"
+  image: hansen25scia.png
+  conference: 
+    full: Scandinavian Conference on Image Analysis
+    short: SCIA
+  year: 2025
+  authors: Andreas Lau Hansen, Lukas Wanzeck, Dim P. Papadopoulos
+  link:
+    website: https://weakcubercnn.compute.dtu.dk/
+    arxiv: https://arxiv.org/abs/2504.13297
+
 - title: "A Simple Pathway to Bias Mitigation in Generative AI"
   image: olmos24cvprw.png
   conference: 
