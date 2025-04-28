@@ -9,6 +9,7 @@
     website: https://poem.compute.dtu.dk/
     arxiv: https://arxiv.org/abs/2504.08111
     code: https://github.com/marcoschouten/POEM_Object_Editing
+    dataset: https://huggingface.co/datasets/monurcan/precise_benchmark_for_object_level_image_editing
     
 - title: "pix2pockets: Shot Suggestions in 8-Ball Pool from a Single Image in the Wild"
   image: schiott25scia.png
