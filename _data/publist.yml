@@ -1,3 +1,13 @@
+- title: "AutoQ-VIS: Improving Unsupervised Video Instance Segmentation via Automatic Quality Assessment"
+  image: lu25iccvw.png
+  conference: 
+    full: International Conference on Computer Vision Workshop
+    short: ICCV-W
+  year: 2025
+  authors: Kaixuan Lu, Mehmet Onur Kaya, Dim P. Papadopoulos
+  link:
+    code: https://github.com/wcbup/AutoQ-VIS
+    
 - title: "Studying Image Diffusion Features for Zero-Shot Video Object Segmentation"
   image: delatolas25cvprw.png
   conference: 
