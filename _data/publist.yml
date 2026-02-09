@@ -1,3 +1,15 @@
+- title: "Efficient Test-Time Scaling for Small Vision-Language Models"
+  image: kaya26iclr.png
+  conference: 
+    full: International Conference on Learning Representations
+    short: ICLR
+  year: 2026
+  authors: Mehmet Onur Kaya, Desmond Elliott, Dim P. Papadopoulos
+  link:
+    website: https://monurcan.github.io/efficient_test_time_scaling/
+    arxiv: https://arxiv.org/abs/2510.03574
+    code: https://github.com/monurcan/efficient_test_time_scaling
+
 - title: "Boosting Unsupervised Video Instance Segmentation with Automatic Quality-Guided Self-Training"
   image: lu26wacv.png
   conference: 
