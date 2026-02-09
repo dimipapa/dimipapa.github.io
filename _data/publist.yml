@@ -29,6 +29,7 @@
   year: 2025
   authors: Kaixuan Lu, Mehmet Onur Kaya, Dim P. Papadopoulos
   link:
+    arxiv: https://arxiv.org/abs/2508.19808
     code: https://github.com/wcbup/AutoQ-VIS
 
 - title: "Studying Image Diffusion Features for Zero-Shot Video Object Segmentation"
