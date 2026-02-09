@@ -1,3 +1,14 @@
+- title: "Boosting Unsupervised Video Instance Segmentation with Automatic Quality-Guided Self-Training"
+  image: lu26wacv.png
+  conference: 
+    full: Winter Conference on Applications of Computer Vision
+    short: WACV
+  year: 2025
+  authors: Kaixuan Lu, Mehmet Onur Kaya, Dim P. Papadopoulos
+  link:
+    arxiv: https://arxiv.org/abs/2512.06864
+    code: https://github.com/wcbup/AutoQ-VIS
+    
 - title: "AutoQ-VIS: Improving Unsupervised Video Instance Segmentation via Automatic Quality Assessment"
   image: lu25iccvw.png
   conference: 
@@ -7,7 +18,7 @@
   authors: Kaixuan Lu, Mehmet Onur Kaya, Dim P. Papadopoulos
   link:
     code: https://github.com/wcbup/AutoQ-VIS
-    
+
 - title: "Studying Image Diffusion Features for Zero-Shot Video Object Segmentation"
   image: delatolas25cvprw.png
   conference: 
@@ -19,6 +30,18 @@
     website: https://diff-zsvos.compute.dtu.dk/
     arxiv: https://arxiv.org/abs/2504.05468
     code: https://github.com/thanosDelatolas/diff-zvos
+    
+- title: "Instruction-Gudied Precise Image Editing Using Multimodal LLMs"
+  image: schouten25cvprw.png
+  conference: 
+    full: Computer Vision and Pattern Recognition Workshop
+    short: CVPR-W
+  year: 2025
+  authors: Marco Schouten, Mehmet Onur Kaya, Serge Belongie, Dim P. Papadopoulos
+  link:
+    website: https://poem.compute.dtu.dk/
+    paper: https://cveu.github.io/src/extended_abstract_2025/10.pdf
+    code: https://github.com/marcoschouten/POEM_Object_Editing
     
 - title: "POEM: Precise Object-level Editing via MLLM control"
   image: schouten25scia.png
