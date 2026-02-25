@@ -9,13 +9,32 @@
     website: https://monurcan.github.io/efficient_test_time_scaling/
     arxiv: https://arxiv.org/abs/2510.03574
     code: https://github.com/monurcan/efficient_test_time_scaling
+    
+- title: "MMLandmarks: a Cross-View Instance-Level Benchmark for Geo-Spatial Understanding"
+  image: kristoffersen26cvpr.png
+  conference: 
+    full: Computer Vision and Pattern Recognition Conference
+    short: CVPR
+  year: 2026
+  authors: Oskar Kristoffersen, Alba R. Sánchez, Morten R. Hannemose, Anders B. Dahl, Dim P. Papadopoulos
+  link:
+    website: https://mmlandmarks.compute.dtu.dk/
+    arxiv: https://arxiv.org/abs/2512.17492
+
+- title: "Towards High-Quality Image Segmentation: Improving Topology Accuracy by Penalizing Neighbor Pixels"
+  image: valverde26cvpr.png
+  conference: 
+    full: Computer Vision and Pattern Recognition Conference
+    short: CVPR
+  year: 2026
+  authors: Juan Miguel Valverde, Dim P. Papadopoulos, Rasmus Larsen, Anders Dahl
 
 - title: "Boosting Unsupervised Video Instance Segmentation with Automatic Quality-Guided Self-Training"
   image: lu26wacv.png
   conference: 
     full: Winter Conference on Applications of Computer Vision
     short: WACV
-  year: 2025
+  year: 2026
   authors: Kaixuan Lu, Mehmet Onur Kaya, Dim P. Papadopoulos
   link:
     arxiv: https://arxiv.org/abs/2512.06864
