@@ -20,7 +20,6 @@
   link:
     website: https://mmlandmarks.compute.dtu.dk/
     arxiv: https://arxiv.org/abs/2512.17492
-    dataset: https://github.com/Oshkr/mmlandmarks
     code: https://github.com/Oshkr/mml-codebase
 
 - title: "Towards High-Quality Image Segmentation: Improving Topology Accuracy by Penalizing Neighbor Pixels"
