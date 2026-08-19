@@ -20,6 +20,8 @@
   link:
     website: https://mmlandmarks.compute.dtu.dk/
     arxiv: https://arxiv.org/abs/2512.17492
+    dataset: https://github.com/Oshkr/mmlandmarks
+    code: https://github.com/Oshkr/mml-codebase
 
 - title: "Towards High-Quality Image Segmentation: Improving Topology Accuracy by Penalizing Neighbor Pixels"
   image: valverde26cvpr.png
@@ -28,6 +30,10 @@
     short: CVPR
   year: 2026
   authors: Juan Miguel Valverde, Dim P. Papadopoulos, Rasmus Larsen, Anders Dahl
+  link:
+    website: https://jmlipman.github.io/SCNP-SameClassNeighborPenalization/
+    arxiv: https://arxiv.org/abs/2603.18671
+    code: https://github.com/jmlipman/SCNP-SameClassNeighborPenalization
 
 - title: "Boosting Unsupervised Video Instance Segmentation with Automatic Quality-Guided Self-Training"
   image: lu26wacv.png
