@@ -1,3 +1,41 @@
+- title: "HiddenObjects: Scalable Diffusion-Distilled Spatial Priors for Object Placement"
+  image: schouten27wacv.png
+  conference: 
+    full: Winter Conference on Applications of Computer Vision
+    short: WACV
+  year: 2027
+  authors: Marco Schouten, Ioannis Siglidis, Serge Belongie, Dim P. Papadopoulos
+  link:
+    website: https://hidden-objects.github.io/
+    arxiv: https://arxiv.org/abs/2604.10675
+    code: https://github.com/marcoschouten/hidden-objects
+    dataset: https://huggingface.co/datasets/marco-schouten/hidden-objects
+
+- title: "EditJudge-Bench: Auditing VLM Image-Edit Judges with Synthetic Ground Truth"
+  image: parslov26neurips.png
+  conference: 
+    full: Neural Information Processing Systems
+    short: NeurIPS
+  year: 2027
+  authors: Jens Parslov, Marco Schouten, Dim P. Papadopoulos
+  link:
+    website: https://jenspars.github.io/EditJudge-Bench/
+    arxiv: https://arxiv.org/abs/2611.12524
+    code: https://github.com/JensPars/EditJudge-Bench
+    dataset: https://huggingface.co/datasets/JensParslov/EditJudge-Bench
+    
+- title: "Physics-Informed Modeling for Wood Thermal Analysis and Prediction"
+  image: xie26bmvc.png
+  conference: 
+    full: British Machine Vision Conference
+    short: BMVC
+  year: 2026
+  authors: Jingren Xie, Alex John Buckthal, Ryan Anthony O'Connor, Isak Worre Foged, Dim P. Papadopoulos
+  link:
+    website: https://zekifayes.github.io/pim/
+    arxiv: https://arxiv.org/abs/2606.23402
+    code: https://huggingface.co/datasets/JRXIE/WoodThermalDatasets
+    
 - title: "Efficient Test-Time Scaling for Small Vision-Language Models"
   image: kaya26iclr.png
   conference: 
